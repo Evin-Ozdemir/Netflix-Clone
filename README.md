@@ -12,7 +12,10 @@
 
 <div align='center'><h3>Video Status</h3></div>
 <div align='center'>
-  <video src="" controls="controls" style="max-width: 730px;">
-</video>
+  Uploading netflix-clone.mp4…
 </div>
+
+
+
+
 
