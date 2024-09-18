@@ -13,7 +13,11 @@
 <div align='center'><h3>Video Status</h3></div>
 <div align='center'>
  
-
+ <div align='center'><h3>Login - Register</h3></div>
+ <div align='center'>
+<img height='380' width='200' src="https://user-images.githubusercontent.com/56825677/160231420-73473029-a344-4e05-880b-f249fb8310f4.png"> </img>
+<img height='380' width='200' src="https://user-images.githubusercontent.com/56825677/160231423-3ae9342a-ade4-418f-b572-fc0b863429ca.png"> </img>
+</div>
 
 
 
