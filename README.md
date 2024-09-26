@@ -1,5 +1,5 @@
-<div><h1>Netflix Clone</h1></div>
-<h4>🚀 This is a simple Netflix clone created using just HTML and CSS to replicate the basic UI of Netflix. The project focuses on structuring a clean and modern interface using basic web technologies.</h4>
+<div><h1>🚀 Netflix Clone</h1></div>
+<h4>This is a simple Netflix clone created using just HTML and CSS to replicate the basic UI of Netflix. The project focuses on structuring a clean and modern interface using basic web technologies.</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>📸 Project Demo</h2>
