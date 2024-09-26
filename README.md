@@ -3,7 +3,7 @@
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>📸 Project Demo</h2>
- <p>Above is a quick preview of how the Netflix clone looks.</p>
+ <p>Below is a quick preview of what the Netflix clone looks like.</p>
 <div align='center'>
  
 ![Zight Recording 2024-09-25 at 01 27 30 AM](https://github.com/user-attachments/assets/77da29f5-7104-4f9a-92c1-d34fb20a96db)
